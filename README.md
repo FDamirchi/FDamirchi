@@ -5,7 +5,7 @@ _Fun fact: "Fedora" comes from Greek, meaning "gift of God" - not the OS!_
 
 Welcome to my GitHub profile!
 
-I'm a Computer Engineering student at Sharif University of Technology ([SUT](https://sharif.ir)), passionate about networks, AI (classic & modern), cybersecurity, and application development. I'm also an AI intern at [MCI](https://mci.ir) (HamrahAval).
+I'm a Computer Engineering student at Sharif University of Technology ([SUT](https://sharif.ir)), passionate about networks, AI (classic & modern), cybersecurity, and application development. I'm also an AI intern at [MCI](https://hamrah.academy/) (HamrahAval).
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, C/C++, JavaScript/TypeScript, SQL
